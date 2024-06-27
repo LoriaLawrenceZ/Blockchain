@@ -2,8 +2,6 @@
     <h1 align=center>BLOCKCHAIN</h1>
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 # Table of Contents
 - [Conceitos da Tecnologia ***BLOCKCHAIN***](#conceitos-da-tecnologia-blockchain)
 - [Início da Blockchain: ***CRIPTOMOEDAS***](#início-da-blockchain-criptomoedas)
@@ -18,29 +16,55 @@
 
 # CONCEITOS DA TECNOLOGIA *BLOCKCHAIN*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Blocos
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Mineração
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Node
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # INÍCIO DA BLOCKCHAIN: *CRIPTOMOEDAS*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # WHITEPAPER DO *BITCOIN*
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # FUNDAMENTAÇÃO TECNOLÓGICA *BLOCKCHAIN*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## *Hash*
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # CRIPTOGRAFIA DE *CHAVE PÚBLICA*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # FORMAÇÃO DE BLOCOS
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # ENCADEAMENTO
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # PLATAFORMA *BLOCKCHAIN*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Rede *Peer-to-Peer Blockchain*
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # ALGORITMO DE CONSENSO
 
@@ -51,7 +75,11 @@
 
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Fundamentos do Consenso
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Como os Algoritmos Comuns Implementam o Consenso
 
@@ -62,8 +90,14 @@
 
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Prova de Trabalho
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Prova de Participação
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # ATAQUE DE 51%
