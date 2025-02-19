@@ -43,7 +43,7 @@ Há algumas coisas que podem dar errado quando você tenta enviar um ativo digit
 - Debitado de uma conta, nunca creditando no outro lado
 - Problemas com dados
 
-![img_1.png](assets/img/img1.png)
+![img.png](assets/img/img1.png)
 
 <details close>
     <summary><code>IMAGEM | Processos</code></summary>
@@ -79,7 +79,7 @@ Imagine uma torre digital de blocos, osbre a qual um novo bloco de dados é adic
 
 A figura representa como os blocos são encadeados em uma blockchain:
 
-![img.png](assets/img/img.png)
+![img.png](assets/img/img2.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +93,7 @@ Para anexar um bloco, é necessário resolver um determinado problema matemátic
 
 Quanto mais os mineradores buscam resolver o problema matemático, mais difícil é encontrar a resposta certa e o custo aumenta.
 
-![img.png](assets/img/img2.png)
+![img.png](assets/img/img3.png)
 
 <details close>
     <summary><code>IMAGEM | Processos</code></summary>
@@ -117,7 +117,7 @@ Temo utilizado para cada transação registrada cronologicamente e distribuída 
 
 É um componente crítico da infraestrutura blockchain. Ajuda a manter a segurança e a integridade da rede. O principal objetivo de um nó blockchain é verificar cada lote de transações de rede, chamados de blocos. Cada nó é distinguido dos outros por um identificador único.
 
-![img.png](assets/img/img3.png)
+![img.png](assets/img/img4.png)
 
 <details close>
     <summary><code>IMAGEM | Processos</code></summary>
