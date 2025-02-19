@@ -2,17 +2,30 @@
     <h1 align=center>BLOCKCHAIN</h1>
 </div>
 
-# Table of Contents
+<details>
+    <summary><span>📌 Índice</span></summary>
+
 - [Conceitos da Tecnologia ***BLOCKCHAIN***](#conceitos-da-tecnologia-blockchain)
+  - [Blocos](#blocos)
+  - [Mineração](#mineração)
+  - [Node](#node)
 - [Início da Blockchain: ***CRIPTOMOEDAS***](#início-da-blockchain-criptomoedas)
 - [Whitepaper do ***BITCOIN***](#whitepaper-do-bitcoin)
 - [Fundamentação Tecnológica ***BLOCKCHAIN***](#fundamentação-tecnológica-blockchain)
+  - [***Hash***](#hash)
 - [Criptografia de ***Chave Pública***](#criptografia-de-chave-pública)
 - [Formação de Blocos](#formação-de-blocos)
 - [Encadeamento](#encadeamento)
 - [Plataforma ***BLOCKCHAIN***](#plataforma-blockchain)
+  - [Rede ***Peer-to-Peer Blockchain***](#rede-peer-to-peer-blockchain)
 - [Algoritmo de Consenso](#algoritmo-de-consenso)
+  - [Fundamentos do Consenso](#fundamentos-do-consenso)
+  - [Como os Algoritmos Comuns Implementam o Consenso](#como-os-algoritmos-comuns-implementam-o-consenso)
+  - [Prova de Trabalho](#prova-de-trabalho)
+  - [Prova de Participação](#prova-de-participação)
 - [Ataque de 51%](#ataque-de-51)
+
+</details>
 
 # CONCEITOS DA TECNOLOGIA *BLOCKCHAIN*
 
