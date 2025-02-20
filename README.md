@@ -139,8 +139,8 @@ aumenta.
 ## Node
 
 Termo utilizado para cada transação registrada cronologicamente e distribuída para uma série de dispositicos conectados.
-Esses dispositivos são chamados de **nós** (***Node***). Esses nós se comunicam dentro da rede e transferem informações sobre 
-transações e novos blocos.
+Esses dispositivos são chamados de **nós** (***Node***). Esses nós se comunicam dentro da rede e transferem informações
+sobre transações e novos blocos.
 
 É um componente crítico da infraestrutura blockchain. Ajuda a manter a segurança e a integridade da rede. O principal
 objetivo de um nó blockchain é verificar cada lote de transações de rede, chamados de blocos. Cada nó é distinguido dos
@@ -344,23 +344,77 @@ alcançaram esse nível em 2021.
 
 # FUNDAMENTAÇÃO TECNOLÓGICA *BLOCKCHAIN*
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+A blockchain usa alguns algoritmos criptográficos como blocos de construção. As funções de hash e criptografia de chave 
+pública são cruciais para a funcionalidade e a seguraça do ecossistema blockchain.
 
 ## *Hash*
+
+Uma função hash é uma função matemática que pode receber qualquer número como entrada e produz uma saída em um intervalo fixo de números. Por exemplo, funções de hash de 256 bits (que são comumente usadas em blockchain), produzem saídas no intervalo de 0 a 256.
+
+Para ser consiferada segura, uma função de hash precisa ser resistente a colisões, isso significa que é extremamente difícil (ao ponto de ser quase impossível) encontrar duas entradas que criem a mesma saída de hash. Conseguir isso requer alguns recursos diferentes:
+
+> - Nenhuma fraqueza na função hash
+> - Um grande número de saídas possíveis
+> - Uma função de hash unidirecional (não pode derivar a entrada da saída)
+> - Entradas semelhantes produzem saídas muito diferentes
+
+Blockchain depende muito de funções de hash seguras para garantir que as transações não possam ser modificadas após serem armazenadas no livro-razão.
+
+Para melhorar esse conceito, uma função hash recebe uma entrada de qualquer comprimento e cria uma saída de comprimento fixo.
+
+Exemplo de uma função hash chamada *md5*:
+
+![img.png](assets/img/img5.png)
+
+<details close>
+    <summary><code>IMAGEM | Hash</code></summary>
+
+Após passar pela função de hash, todos os resultados têm um mesmo comprimento e saídas bem diferentes.
+
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # CRIPTOGRAFIA DE *CHAVE PÚBLICA*
 
+Com a criptografia de chave pública é possível:
+
+> - Criptografar uma mensagem para que apenas o destinatário pretendido possa lê-la
+> - Gerar uma assinatura digital comprovando que você enviou uma determinada mensagem
+> - Verificar se uma mensagem não foi modificada no percurso.
+
+Nas criptografia de chave pública, todos têm duas chaves de criptografia diferentes: uma **privada** e uma **pública**. Sua chave privada é um número aleatório que você gera e mantém em segredo. Ele é usado para descriptografar mensagens e gerar assinaturas digitais.
+
+Chave pública é derivada da chave privada e foi projetada para ser distribuída publicamente. É usada para criptografar mensagens para você e gerar asinaturas digitais. Seu endereço (para onde as pessoas enviatam transações) na blockchain normalmente é derivado de sua chave pública.
+
+A segurança da chave pública é baseada em duas coisas. A primeira é o sigilo da chave privada. Se alguém puder adivinhar ou roubar sua chave privada, terá controle total de sua conta na blockchain. Isso permite que realize transações em seu nome e descriptograde os dados destinados a você.
+
+A outra suposição principal da crptografia de chave pública é que os algoritmos usados são seguros. A criptogradia de chave pública é baseada em problemas matemáticos complexos, em que realizar uma operação é muito mais fácil do que revertê-la. Poe xemplo, é facil realizar a exponenciação, mas difícil calcular logaritmos. Como resultado, é possível criar esquemas em que os computadores sejam capazes de realizar a operação fácil, mas não a difícil.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # FORMAÇÃO DE BLOCOS
 
+Blockchain é uma coleção de blocos que são encadeados para criar um todo contínuo.
+
+![img.png](assets/img/img6.png)
+
+<details close>
+    <summary><code>IMAGEM | Formação de blocos</code></summary>
+
+A imagem representa a estrutura básica de um bloco em uma blockchain. Cada quadrado amarelo representa uma transação dentro do bloco. Embora uma transação possa representar uma transação literal (ou seja, uma tranferência de valor) em blockchains como o Bitcoin.
+
+</details>
+
+A segurança dos blocos no livro digital depende da segurança da criptografia de chave pública. Cada transação e bloco na blockchain são assinados digitalmente por seu criador. Isso permite que qualquer pessoa com acesso à blockchain valide facilmente que cada transação é autenticada (ou seja, enviada por alguém que possui a conta associada) e não foi modificada desde a criação. A integridade e autenticação dos blocos da cadeia também são asseguradas pela assinatura digital do criador do bloco.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # ENCADEAMENTO
+
+Cada bloco equivale a uma única página no livro-razão. Para combinar esses slides em um todo contínuo, a blockchain faz uso de funções de hash.
+
+![img.png](assets/img/img7.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
