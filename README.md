@@ -416,13 +416,39 @@ Cada bloco equivale a uma única página no livro-razão. Para combinar esses sl
 
 ![img.png](assets/img/img7.png)
 
+<details close>
+    <summary><code>IMAGEM | Blocos</code></summary>
+
+Na imagem é possível ver as funções de hash ligando cada bloco. Cada bloco contém o hash do bloco anterior como parte de seu cabeçalho de bloco (a seção que não contém dados de transação).
+
+</details>
+
+O fato de cada bloco ser dependente do anterior é significativo devido à resistência à colisão das funções hash. Se alguém quiser forjar o bloco 1, tem duas opções: encontrar outra versão do bloco 1 que tenha o mesmo hash ou forjar todos os blocos após o 2 também. A primeira deve ser impossível (devido à resistência à colisão) e a outra deve ser difícil ou impossível, já que a blockchain é projetada para dificultar o forjamento de um único bloco.
+
+A segurança da parte "cadeia" da blockchain é baseada na resitência à colisão da função hash que ela usa. Se alguém puder encontrar uma maneira de gerar outra versão do bloco 1 que tenha o mesmo hash, as suposições de imutabilidade da blockchain serão quebradas e você não poderá confiar em qualquer transação permanecerá no livro distribuído.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # PLATAFORMA *BLOCKCHAIN*
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+A blockchain foi projetada para armazenar um livro-razão distribuído confiável e compartilhado, que representa todo histórico da rede blockchain.
 
 ## Rede *Peer-to-Peer Blockchain*
+
+Blockchain não é grande em intermediários confiáveis, então ela usa uma rede ponto a ponto, em que cada nó da rede se comunica diretamente com outros nós.
+
+A maioria das redes blockchains usam um sistema de transmissão no qual, se um nó tiver cinco pares, cada mensagem recebida de um é enviada para os outros quatro. Dessa forma, as mensagens se espalham pela rede por muitos caminhos e ninguém tem controle total sobra as comunicações, fazendo co que a informação se espalhe muito rápido.
+
+A principal implicação do modelo *peer-to-peer* para a rede blockchain é que a rede subjacente precisa ser capaz de suportá-la. Como cada peer precisa ser capaz de se conectar a todos os outros peers, você não pode efetivamente ter uma rede blockchain distribuída em uma rede com níveis de confiança variados sem comprometer a blockchain ou a segurança da rede. Além disso, o estilo de comunicação "broadcast" da blockchain significa que requer uma grande quantidadde de largura de banda para funcionar corretamente. A incapacidade de suportar isso pode ter impactos negativos na segurança e eficácia da blockchain.
+
+![Modelo *peer-to-peer*](assets/img/img8.png)
+
+<details close>
+    <summary><code>IMAGEM | Modelo peer-to-peer</code></summary>
+
+Você (*peer* - bolinha rosa) se comunicando com outros *peers*. Todos se comunicando com todos na rede. 
+
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
