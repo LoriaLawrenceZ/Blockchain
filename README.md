@@ -80,11 +80,10 @@ quase todos os setores.
 
 ## Blocos
 
-Um bloco consiste em uma lista de dados. Uma "cadeia" é um conjunto de cloco de dados que cresce constantemente ao longo
-de um período de tempo. Se a transação estiver inserida na blockchain, será extremamente difícil ou impossível alterar 
-esses dados. Isso torna a blockchain um meio único de armazenar dados valiosos.
+Um bloco consiste em uma lista de dados. Uma "cadeia" é um conjunto de blocos de dados que cresce constantemente ao
+longo de um período de tempo. Se a transação estiver inserida na blockchain, será extremamente difícil ou impossível alterar esses dados. Isso torna a blockchain um meio único de armazenar dados valiosos.
 
-Imagine uma torre digital de blocos, osbre a qual um novo bloco de dados é adicionado a cada 10 minutos a partir do 
+Imagine uma torre digital de blocos, sobre a qual um novo bloco de dados é adicionado a cada 10 minutos a partir do 
 "**bloco de gênese**" original na base da torre. Os dados em cada bloco consistem em transações financeiras transmitidas
 por usuários da rede juntamente com evidências criptográficas de que essas transações são válidas.
 
@@ -111,7 +110,7 @@ Mineração é a extração da moeda digital usando equipamentos especiais (comp
 A mineração é a junção de blocos que armazenam informações sobre transações. Como resultado, eles formam uma cadeia 
 contínua e consistente.
 
-Para anexar um bloco, é necessário resolver um determinado problema matemático decifrando o algorítmo da criptomoeda.
+Para anexar um bloco, é necessário resolver um determinado problema matemático decifrando o algoritmo da criptomoeda.
 Caso o equipamento encontre a resposta correta, seu dono recebe uma recompensa em forma de moedas digitais, ou seja,
 recebe Bitcoin.
 
@@ -138,7 +137,7 @@ aumenta.
 
 ## Node
 
-Termo utilizado para cada transação registrada cronologicamente e distribuída para uma série de dispositicos conectados.
+Termo utilizado para cada transação registrada cronologicamente e distribuída para uma série de dispositivos conectados.
 Esses dispositivos são chamados de **nós** (***Node***). Esses nós se comunicam dentro da rede e transferem informações
 sobre transações e novos blocos.
 
@@ -182,7 +181,7 @@ Alguns dos motivos pelos quais as criptomoedas estão sendo tão adotadas:
 - A segurança da Blockchain torna o roubo muito mais difícil, pois cada criptomoeda tem seu próprio número identificável 
 irrefutável que é anexado a um proprietário.
 - A criptografia reduz a necessidade de moedas e bancos centrais individualizados - Com a blockchain, a criptografia 
-pode ser enviada para qualquer lugar e qualquer pessoa do mundo sme a necessidade de troca de moeda ou interferência 
+pode ser enviada para qualquer lugar e qualquer pessoa do mundo sem a necessidade de troca de moeda ou interferência 
 de bancos centrais.
 
 > **Sobre o bitcoin**
@@ -214,9 +213,9 @@ Nakamoto.
 <details close>
     <summary><code>2010</code></summary>
 
-- O programados Laszlo Hanycez, na Flórida, concluiu a primeira compra usando o Bitcoin - duas pizzas Papa John's. 
-Haneycz pagou 10.000 BTC, cerca de US$ 60,00 na época. Hoje vale alguns milhões e a comunidade comemora esse dia como 
-Bitcoin Pizza day..
+- O programador Laszlo Hanyecz, na Flórida, concluiu a primeira compra usando o Bitcoin - duas pizzas Papa John's. 
+Hanyecz pagou 10.000 BTC, cerca de US$ 60,00 na época. Hoje vale alguns milhões e a comunidade comemora esse dia como 
+Bitcoin Pizza day.
 - O valor do Mercado do Bitcoin excede oficialmente US$ 1 milhão.
 
 </details>
@@ -224,7 +223,7 @@ Bitcoin Pizza day..
 <details close>
     <summary><code>2011</code></summary>
 
-- 1 BTC = $ 1USD, dando a paridade da criptomoeda com o dólas americano
+- 1 BTC = $ 1USD, dando a paridade da criptomoeda com o dólar americano
 - Eletronic Frontier Foundation, Wikilieaks e outras organizações começam a aceitar Bitcoin como doações.
 
 </details>
@@ -254,7 +253,7 @@ na cultura pop.
 - A empresa de jogos Zynga, The D Las Vegas Hotel e Overstock.com começam a aceitar Bitcoin como pagamento.
 - O Projeto Ethereum de Buterin é financiado por meio de uma Oferta Inicial de Moedas (ICO - Initial Coin Offering) 
 arrecadando mais de US$18 milhões em BTC e abrindo novos caminhos para a blockchain.
-- R3, um grupo de mais de 200 empresas de blockchain, é formado para descobrir noas maneiras de implementar blockchain 
+- R3, um grupo de mais de 200 empresas de blockchain, é formado para descobrir novas maneiras de implementar blockchain 
 em tecnologia
 - PayPal anuncia integração com Bitcoin.
 
@@ -294,17 +293,16 @@ empresas privadas.
 
 - O Facebook se compromete a iniciar um grupo de trabalho em blockchain e sugere a possibilidade de criar sua própria
 criptomoeda.
-- A IBM desenvolve uma plataorma bancária baseada em, com grandes bancos como Citi e Barclays assinando. 
+- A IBM desenvolve uma plataforma bancária baseada em, com grandes bancos como Citi e Barclays assinando. 
 
 </details>
 
 <details close>
     <summary><code>2019</code></summary>
 
-- O presidente da China, Ji Xiping, abraça publicamente a blockchain, enquanto o banco central da China anuncia que está 
-trabalhando em sua própria criptomoeda.
+- O presidente da China, Xi Jinping, abraça publicamente a blockchain, enquanto o banco central da China anuncia que está trabalhando em sua própria criptomoeda.
 - O CEO do Twitter & Square, Jack Dorsey, anuncia que a Square contratará engenheiros de blockchain para trabalhar nos 
- uturos planos de criptomoedas da empresa.
+ futuros planos de criptomoedas da empresa.
 - A bolsa de valores de Nova York (NYSE) anuncia a criação da Bakkt - uma empresa de carteira digital que inclui 
 negociação de criptomoedas
 
@@ -313,7 +311,7 @@ negociação de criptomoedas
 <details close>
     <summary><code>2020</code></summary>
 
-- Bitcin quase chega a US$ 30.000/BTC até o final de 2020.
+- Bitcoin quase chega a US$ 30.000/BTC até o final de 2020.
 - PayPal anuncia que permitirá que usuários comprem, vendam e mantenham criptomoedas.
 - As Bahamas se tornam o primeiro país do mundo a lançar sua moeda digital do banco central, apropriadamente conhecida
 como "Sand Dollar".
@@ -325,7 +323,7 @@ como "Sand Dollar".
 <details close>
     <summary><code>2021</code></summary>
 
-- O detentor corporativo nº 1 do Bitcoin é o Grayscale Bitcoin Trust. Eles detêm 654.885 Bitcoind, ou 3.12% da oferta 
+- O detentor corporativo nº 1 do Bitcoin é o Grayscale Bitcoin Trust. Eles detêm 654.885 Bitcoins, ou 3.12% da oferta 
 total
 - O detentor corporativo nº2 do Bitcoin é a MicroStrategy. Eles detêm 124.391 Bitcoins.
 - Bitcoin tornou-se moeda legal ao lado do dólar americano em El Salvador.
@@ -345,22 +343,28 @@ alcançaram esse nível em 2021.
 # FUNDAMENTAÇÃO TECNOLÓGICA *BLOCKCHAIN*
 
 A blockchain usa alguns algoritmos criptográficos como blocos de construção. As funções de hash e criptografia de chave 
-pública são cruciais para a funcionalidade e a seguraça do ecossistema blockchain.
+pública são cruciais para a funcionalidade e a segurança do ecossistema blockchain.
 
 ## *Hash*
 
-Uma função hash é uma função matemática que pode receber qualquer número como entrada e produz uma saída em um intervalo fixo de números. Por exemplo, funções de hash de 256 bits (que são comumente usadas em blockchain), produzem saídas no intervalo de 0 a 256.
+Uma função hash é uma função matemática que pode receber qualquer número como entrada e produz uma saída em um intervalo
+fixo de números. Por exemplo, funções de hash de 256 bits (que são comumente usadas em blockchain), produzem saídas no 
+intervalo de 0 a 256.
 
-Para ser consiferada segura, uma função de hash precisa ser resistente a colisões, isso significa que é extremamente difícil (ao ponto de ser quase impossível) encontrar duas entradas que criem a mesma saída de hash. Conseguir isso requer alguns recursos diferentes:
+Para ser considerada segura, uma função de hash precisa ser resistente a colisões, isso significa que é extremamente 
+difícil (ao ponto de ser quase impossível) encontrar duas entradas que criem a mesma saída de hash. Conseguir isso 
+requer alguns recursos diferentes:
 
 > - Nenhuma fraqueza na função hash
 > - Um grande número de saídas possíveis
 > - Uma função de hash unidirecional (não pode derivar a entrada da saída)
 > - Entradas semelhantes produzem saídas muito diferentes
 
-Blockchain depende muito de funções de hash seguras para garantir que as transações não possam ser modificadas após serem armazenadas no livro-razão.
+Blockchain depende muito de funções de hash seguras para garantir que as transações não possam ser modificadas após 
+serem armazenadas no livro-razão.
 
-Para melhorar esse conceito, uma função hash recebe uma entrada de qualquer comprimento e cria uma saída de comprimento fixo.
+Para melhorar esse conceito, uma função hash recebe uma entrada de qualquer comprimento e cria uma saída de comprimento 
+fixo.
 
 Exemplo de uma função hash chamada *md5*:
 
@@ -383,13 +387,22 @@ Com a criptografia de chave pública é possível:
 > - Gerar uma assinatura digital comprovando que você enviou uma determinada mensagem
 > - Verificar se uma mensagem não foi modificada no percurso.
 
-Nas criptografia de chave pública, todos têm duas chaves de criptografia diferentes: uma **privada** e uma **pública**. Sua chave privada é um número aleatório que você gera e mantém em segredo. Ele é usado para descriptografar mensagens e gerar assinaturas digitais.
+Nas criptografia de chave pública, todos têm duas chaves de criptografia diferentes: uma **privada** e uma **pública**.
+Sua chave privada é um número aleatório que você gera e mantém em segredo. Ele é usado para descriptografar mensagens e
+gerar assinaturas digitais.
 
-Chave pública é derivada da chave privada e foi projetada para ser distribuída publicamente. É usada para criptografar mensagens para você e gerar asinaturas digitais. Seu endereço (para onde as pessoas enviatam transações) na blockchain normalmente é derivado de sua chave pública.
+Chave pública é derivada da chave privada e foi projetada para ser distribuída publicamente. É usada para criptografar 
+mensagens para você e gerar assinaturas digitais. Seu endereço (para onde as pessoas enviatam transações) na blockchain 
+normalmente é derivado de sua chave pública.
 
-A segurança da chave pública é baseada em duas coisas. A primeira é o sigilo da chave privada. Se alguém puder adivinhar ou roubar sua chave privada, terá controle total de sua conta na blockchain. Isso permite que realize transações em seu nome e descriptograde os dados destinados a você.
+A segurança da chave pública é baseada em duas coisas. A primeira é o sigilo da chave privada. Se alguém puder adivinhar
+ou roubar sua chave privada, terá controle total de sua conta na blockchain. Isso permite que realize transações em seu 
+nome e descriptograde os dados destinados a você.
 
-A outra suposição principal da crptografia de chave pública é que os algoritmos usados são seguros. A criptogradia de chave pública é baseada em problemas matemáticos complexos, em que realizar uma operação é muito mais fácil do que revertê-la. Poe xemplo, é facil realizar a exponenciação, mas difícil calcular logaritmos. Como resultado, é possível criar esquemas em que os computadores sejam capazes de realizar a operação fácil, mas não a difícil.
+A outra suposição principal da criptografia de chave pública é que os algoritmos usados são seguros. A criptografia de 
+chave pública é baseada em problemas matemáticos complexos, em que realizar uma operação é muito mais fácil do que 
+revertê-la. Por exemplo, é fácil realizar a exponenciação, mas difícil calcular logaritmos. Como resultado, é possível 
+criar esquemas em que os computadores sejam capazes de realizar a operação fácil, mas não a difícil.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -402,44 +415,66 @@ Blockchain é uma coleção de blocos que são encadeados para criar um todo con
 <details close>
     <summary><code>IMAGEM | Formação de blocos</code></summary>
 
-A imagem representa a estrutura básica de um bloco em uma blockchain. Cada quadrado amarelo representa uma transação dentro do bloco. Embora uma transação possa representar uma transação literal (ou seja, uma tranferência de valor) em blockchains como o Bitcoin.
+A imagem representa a estrutura básica de um bloco em uma blockchain. Cada quadrado amarelo representa uma transação 
+dentro do bloco. Embora uma transação possa representar uma transação literal (ou seja, uma tranferência de valor) em 
+blockchains como o Bitcoin.
 
 </details>
 
-A segurança dos blocos no livro digital depende da segurança da criptografia de chave pública. Cada transação e bloco na blockchain são assinados digitalmente por seu criador. Isso permite que qualquer pessoa com acesso à blockchain valide facilmente que cada transação é autenticada (ou seja, enviada por alguém que possui a conta associada) e não foi modificada desde a criação. A integridade e autenticação dos blocos da cadeia também são asseguradas pela assinatura digital do criador do bloco.
+A segurança dos blocos no livro digital depende da segurança da criptografia de chave pública. Cada transação e bloco na
+blockchain são assinados digitalmente por seu criador. Isso permite que qualquer pessoa com acesso à blockchain valide 
+facilmente que cada transação é autenticada (ou seja, enviada por alguém que possui a conta associada) e não foi 
+modificada desde a criação. A integridade e autenticação dos blocos da cadeia também são asseguradas pela assinatura 
+digital do criador do bloco.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # ENCADEAMENTO
 
-Cada bloco equivale a uma única página no livro-razão. Para combinar esses slides em um todo contínuo, a blockchain faz uso de funções de hash.
+Cada bloco equivale a uma única página no livro-razão. Para combinar esses slides em um todo contínuo, a blockchain faz 
+uso de funções de hash.
 
 ![img.png](assets/img/img7.png)
 
 <details close>
     <summary><code>IMAGEM | Blocos</code></summary>
 
-Na imagem é possível ver as funções de hash ligando cada bloco. Cada bloco contém o hash do bloco anterior como parte de seu cabeçalho de bloco (a seção que não contém dados de transação).
+Na imagem é possível ver as funções de hash ligando cada bloco. Cada bloco contém o hash do bloco anterior como parte de
+seu cabeçalho de bloco (a seção que não contém dados de transação).
 
 </details>
 
-O fato de cada bloco ser dependente do anterior é significativo devido à resistência à colisão das funções hash. Se alguém quiser forjar o bloco 1, tem duas opções: encontrar outra versão do bloco 1 que tenha o mesmo hash ou forjar todos os blocos após o 2 também. A primeira deve ser impossível (devido à resistência à colisão) e a outra deve ser difícil ou impossível, já que a blockchain é projetada para dificultar o forjamento de um único bloco.
+O fato de cada bloco ser dependente do anterior é significativo devido à resistência à colisão das funções hash. Se 
+alguém quiser forjar o bloco 1, tem duas opções: encontrar outra versão do bloco 1 que tenha o mesmo hash ou forjar 
+todos os blocos após o 2 também. A primeira deve ser impossível (devido à resistência à colisão) e a outra deve ser 
+difícil ou impossível, já que a blockchain é projetada para dificultar o forjamento de um único bloco.
 
-A segurança da parte "cadeia" da blockchain é baseada na resitência à colisão da função hash que ela usa. Se alguém puder encontrar uma maneira de gerar outra versão do bloco 1 que tenha o mesmo hash, as suposições de imutabilidade da blockchain serão quebradas e você não poderá confiar em qualquer transação permanecerá no livro distribuído.
+A segurança da parte "cadeia" da blockchain é baseada na resitência à colisão da função hash que ela usa. Se alguém 
+puder encontrar uma maneira de gerar outra versão do bloco 1 que tenha o mesmo hash, as suposições de imutabilidade da 
+blockchain serão quebradas e você não poderá confiar em qualquer transação permanecerá no livro distribuído.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # PLATAFORMA *BLOCKCHAIN*
 
-A blockchain foi projetada para armazenar um livro-razão distribuído confiável e compartilhado, que representa todo histórico da rede blockchain.
+A blockchain foi projetada para armazenar um livro-razão distribuído confiável e compartilhado, que representa todo 
+histórico da rede blockchain.
 
 ## Rede *Peer-to-Peer Blockchain*
 
-Blockchain não é grande em intermediários confiáveis, então ela usa uma rede ponto a ponto, em que cada nó da rede se comunica diretamente com outros nós.
+Blockchain não é grande em intermediários confiáveis, então ela usa uma rede ponto a ponto, em que cada nó da rede se 
+comunica diretamente com outros nós.
 
-A maioria das redes blockchains usam um sistema de transmissão no qual, se um nó tiver cinco pares, cada mensagem recebida de um é enviada para os outros quatro. Dessa forma, as mensagens se espalham pela rede por muitos caminhos e ninguém tem controle total sobra as comunicações, fazendo co que a informação se espalhe muito rápido.
+A maioria das redes blockchains usa um sistema de transmissão no qual, se um nó tiver cinco pares, cada mensagem 
+recebida de um é enviada para os outros quatro. Dessa forma, as mensagens se espalham pela rede por muitos caminhos e 
+ninguém tem controle total sobre as comunicações, fazendo com que a informação se espalhe muito rápido.
 
-A principal implicação do modelo *peer-to-peer* para a rede blockchain é que a rede subjacente precisa ser capaz de suportá-la. Como cada peer precisa ser capaz de se conectar a todos os outros peers, você não pode efetivamente ter uma rede blockchain distribuída em uma rede com níveis de confiança variados sem comprometer a blockchain ou a segurança da rede. Além disso, o estilo de comunicação "broadcast" da blockchain significa que requer uma grande quantidadde de largura de banda para funcionar corretamente. A incapacidade de suportar isso pode ter impactos negativos na segurança e eficácia da blockchain.
+A principal implicação do modelo *peer-to-peer* para a rede blockchain é que a rede subjacente precisa ser capaz de 
+suportá-la. Como cada peer precisa ser capaz de se conectar a todos os outros peers, você não pode efetivamente ter uma 
+rede blockchain distribuída em uma rede com níveis de confiança variados sem comprometer a blockchain ou a segurança da
+rede. Além disso, o estilo de comunicação "broadcast" da blockchain significa que requer uma grande quantidade de 
+largura de banda para funcionar corretamente. A incapacidade de suportar isso pode ter impactos negativos na segurança e
+eficácia da blockchain.
 
 ![Modelo *peer-to-peer*](assets/img/img8.png)
 
@@ -454,21 +489,36 @@ Você (*peer* - bolinha rosa) se comunicando com outros *peers*. Todos se comuni
 
 # ALGORITMO DE CONSENSO
 
-Blockchain é projetada para remover autoridades centralizadoras como bancos. Em vez disso, a rede blockchain mantém um registro compartilhado e descentralizado co cada né da rede mantendo uma cópia e atualizando-a à medida em que cada novo bloco é criado.
+Blockchain é projetada para remover autoridades centralizadoras como bancos. Em vez disso, a rede blockchain mantém um 
+registro compartilhado e descentralizado co cada nó da rede mantendo uma cópia e atualizando-a à medida em que cada novo
+bloco é criado.
 
-O desafio com isso é garantir que todos os nós façam as mesmas atualizações em suas cópias do livro razão com cada bloco. Como a rede não possui uma autoridade consistente para criar a versão oficial do livro-razão, ela escolhe uma autoridade temporária para cirar e compartilhar cada bloco. O mecanismo para fazer isso é chamado de ***algoritmo de consenco blockchain***.
+O desafio com isso é garantir que todos os nós façam as mesmas atualizações em suas cópias do livro razão com cada 
+bloco. Como a rede não possui uma autoridade consistente para criar a versão oficial do livro-razão, ela escolhe uma 
+autoridade temporária para cirar e compartilhar cada bloco. O mecanismo para fazer isso é chamado de ***algoritmo de 
+consenco blockchain***.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Fundamentos do Consenso
 
-O trabalho do algoritmo de consenso é garantir que o controle da blockchain seja descentralizado para que nenhum usuário tenha a capacidade de controlar a rede. O meio pelo qual isso é feito é tornar o controle da rede blockchain dependente do controle de um recurso escasso.
+O trabalho do algoritmo de consenso é garantir que o controle da blockchain seja descentralizado para que nenhum usuário
+tenha a capacidade de controlar a rede. O meio pelo qual isso é feito é tornar o controle da rede blockchain dependente 
+do controle de um recurso escasso.
 
-Não importa qual algoritmo de consenso você escolha, tudo se resume ao fato de que o controle de um recurso escasso equivale a poder na blockchain. Na ***Proof of Work***, esse recurso é o poder computacional, em ***Proof of Stake***, é a criptomoeda da blockchain.
+Não importa qual algoritmo de consenso você escolha, tudo se resume ao fato de que o controle de um recurso escasso 
+equivale a poder na blockchain. Na ***Proof of Work***, esse recurso é o poder computacional, em ***Proof of Stake***, é
+a criptomoeda da blockchain.
 
-A lógica por trás do uso de um recurso escasso como análogo para alimentar a blockchain é que ele permite o uso de incentivos econômicos para proteger a blockchain. A **Lei da Oferta e da Demanda** diz que: se houver aumento da demanda por um recurso com oferta limitada, o preço aumenta.
+A lógica por trás do uso de um recurso escasso como análogo para alimentar a blockchain é que ele permite o uso de 
+incentivos econômicos para proteger a blockchain. A **Lei da Oferta e da Demanda** diz que: se houver aumento da demanda
+por um recurso com oferta limitada, o preço aumenta.
 
-Quando um invasor tenta obter o controle de uma rede blockchain (para realizar um ataque de 51% ou similar), ele precisa adquirir mais recursos escassos para fazê-lo. Como resultado, eles aumentam a demanda pelo recurso, o que aumenta o preço para adquiri-lo. Espera-se que o custo para adquirir recursos suficientes para realizar um ataque bem-sucedido esteja além dos recursos do invasor. Caso contrário, temos ataques bem-sucedidos de 51% contra blockchains, o que certamente aconteceu em redes menores de criptomoedas.
+Quando um invasor tenta obter o controle de uma rede blockchain (para realizar um ataque de 51% ou similar), ele precisa
+adquirir mais recursos escassos para fazê-lo. Como resultado, eles aumentam a demanda pelo recurso, o que aumenta o 
+preço para adquiri-lo. Espera-se que o custo para adquirir recursos suficientes para realizar um ataque bem-sucedido 
+esteja além dos recursos do invasor. Caso contrário, temos ataques bem-sucedidos de 51% contra blockchains, o que 
+certamente aconteceu em redes menores de criptomoedas.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -479,29 +529,91 @@ Quando um invasor tenta obter o controle de uma rede blockchain (para realizar u
 <details close>
     <summary><code>IMAGEM | Proof of Work vs. Proof of Stake</code></summary>
 
-| Proof of Work | Proof of Stake |
-| :--- | :--- |
+| Proof of Work                                                                                                        | Proof of Stake |
+|:---------------------------------------------------------------------------------------------------------------------| :--- |
 | ***Proof of Work*** é um requisito para definir um cálculo computacional expensivo, também chamado de **mineiração** | ***Proof of Stake***, o criador de um novo bloco é escolhido de forma determinística, dependendo na sua riqueza, também definido como **participação** |
-| Uma recompensa é dada para o primeiro mineirador que resolver os problemas de cada bloco | O sistema ***PoS*** (Proof of Stake) não tem uma recompensa por bloco, então, os mineiradores ganham as taxas das transação |
-| Mineiradores da rede competem para serem os primeiros a achar uma solução para o problema matemático | Moedas de Proof of Stake podem ser milhares de vezes mais econômicas |
+| Uma recompensa é dada para o primeiro mineirador que resolver os problemas de cada bloco                             | O sistema ***PoS*** (Proof of Stake) não tem uma recompensa por bloco, então, os mineiradores ganham as taxas das transação |
+| Mineiradores da rede competem para serem os primeiros a achar uma solução para o problema matemático                 | Moedas de Proof of Stake podem ser milhares de vezes mais econômicas |
 
 </details>
-
-<details close>
-    <summary><code>VÍDEO | Blockchain: Ethereum</code></summary>
-
-
-
-</details>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Prova de Trabalho
+
+A ***Proof of Work*** é o algoritmo de consenso original e envolve fazer as pessoas trabalharem. No Proof of Work, os 
+mineradores são aqueles que tentam criar um novo bloco. A maneira como o criador do bloco é selecionado é implementando
+uma corrida em que o vencedor cria o bloco (e ganha as recompensas associadas).
+
+![Como funciona o Proof of Work](assets/img/img10.png)
+
+<details close>
+    <summary><code>IMAGEM | Como funciona o Proof of Work</code></summary>
+
+1. Mineiradores
+2. Bloco
+3. Problema do bloco
+4. ***Proof of Work***
+5. Transmissão do novo bloco para a rede
+6. Verificação por mineiradores
+7. Processo começa novamente
+8. Transação
+
+</details>
+
+Essa corrida envolve a criação de um bloco válido, em que a condição de validade é que o cabeçalho do bloco tenha um 
+valor menor que determinado limite. Devido às propriedades das funções de hash, a melhor maneira de fazer isso é 
+adivinhando aleatoriamente. Como resultado, os mineradores na rede tentam hashes aleatórios até que se depare com um 
+nonce que cria a saída de hash desejada. O primeiro minerador a encontrar um bloco válido o transmite para o resto da 
+rede para construir o próximo bloco.
+
+O principal problema com o **Proof of Work** é que o critério para a criação do bloco é a capacidade de criar um bloco
+válido. Não há nada que diga que dois mineradores diferentes não podem encontrar versões diferentes do bloco ao mesmo
+tempo. Se isso ocorrer, uma blockchain divergente pode ser criada com diferentes partes da rede sendo construídas em 
+cima de diferentes blocos. Blockchain resolve isso usando a regra do bloco mais longo, que diz que, em um conflito 
+entre duas versões da blockchain, a mais longa deve ser aceita.
+
+**Proof of Work** também tenta minimizar a probabilidade de blockchains divergentes usando o conceito de dificuldade. O
+valor limite que o hash de um cabeçalho de bloco válido deve ser menor do que pode ser atualizado de forma distribuída. 
+A dificuldade é atualizada em intervalos regulares para que a criação de blocos ocorra na taxa de blocos desejada.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Prova de Participação
 
+A ***Proof of Stake*** usa a escassa criptomoeda da blockchain como abordagem para proteger a blockchain.
+
+**Proof of Stake** funciona como investir em uma empresa. Ao dar parte do seu dinheiro para uma empresa, você tem o 
+direito de receber dividendos de investidores. No **Proof of Stake**, você promete não gastar uma parte da sua
+criptomoeda (ou apostar) em troca da chance de ser um criador de blocos (e ganhar as recompensas associadas).
+
+![Como funciona a **Proof of Stake**](assets/img/img11.png)
+
+<details close>
+    <summary><code>IMAGEM | Como funciona a Proof of Stake</code></summary>
+
+O ***Staker*** (participante - **staker**) ganha como recompensa um percentual baseado na aposta (**stake**).
+
+</details>
+
+A mecânica de como os criadores de blocos são selecionados com base nas apostas varia de acordo com a implemnentação.
+Em algumas implementações, a probabilidade de ser selecionado é diretamente proporcional ao tamanho da aposta do 
+usuário. Em outros, o conceito de idade da moeda é introduzido e os apostadores que não foram selecionados para criar 
+um bloco em algum momento têm uma probabilidade maior de serem selecionados. Independentemente disso, **o controle de
+mais criptomoedas apostadas no *Proof of Stake* equivale a um maior controle sobre a blockchain**.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # ATAQUE DE 51%
+
+Um ataque de 51% ocorre quando um único minerrador de criptomoeda ou grupo de mineradores obtém controle de mais de 50%
+da blockchain de uma rede.
+
+Quando a maioria do hashrate é controlada por um ou mais mineradores em um ataque de 51%, a rede de criptomoedas é
+interrompida. Os responsáveis por um ataque de 51% seriam então capazes de:
+
+- Excluir novas transações do registro.
+- Modificar a ordem das transações.
+- Impedir que transações sejam validadas ou confirmadas.
+- Bloquear outros mineradores de minerar moedas ou tokens dentro da rede.
+- Reverter transações para gastar moedas em dobro.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
