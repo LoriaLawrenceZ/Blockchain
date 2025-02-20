@@ -454,20 +454,38 @@ Você (*peer* - bolinha rosa) se comunicando com outros *peers*. Todos se comuni
 
 # ALGORITMO DE CONSENSO
 
-<details close>
-    <summary><code>VÍDEO | Consenso</code></summary>
+Blockchain é projetada para remover autoridades centralizadoras como bancos. Em vez disso, a rede blockchain mantém um registro compartilhado e descentralizado co cada né da rede mantendo uma cópia e atualizando-a à medida em que cada novo bloco é criado.
 
-
-
-</details>
+O desafio com isso é garantir que todos os nós façam as mesmas atualizações em suas cópias do livro razão com cada bloco. Como a rede não possui uma autoridade consistente para criar a versão oficial do livro-razão, ela escolhe uma autoridade temporária para cirar e compartilhar cada bloco. O mecanismo para fazer isso é chamado de ***algoritmo de consenco blockchain***.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Fundamentos do Consenso
 
+O trabalho do algoritmo de consenso é garantir que o controle da blockchain seja descentralizado para que nenhum usuário tenha a capacidade de controlar a rede. O meio pelo qual isso é feito é tornar o controle da rede blockchain dependente do controle de um recurso escasso.
+
+Não importa qual algoritmo de consenso você escolha, tudo se resume ao fato de que o controle de um recurso escasso equivale a poder na blockchain. Na ***Proof of Work***, esse recurso é o poder computacional, em ***Proof of Stake***, é a criptomoeda da blockchain.
+
+A lógica por trás do uso de um recurso escasso como análogo para alimentar a blockchain é que ele permite o uso de incentivos econômicos para proteger a blockchain. A **Lei da Oferta e da Demanda** diz que: se houver aumento da demanda por um recurso com oferta limitada, o preço aumenta.
+
+Quando um invasor tenta obter o controle de uma rede blockchain (para realizar um ataque de 51% ou similar), ele precisa adquirir mais recursos escassos para fazê-lo. Como resultado, eles aumentam a demanda pelo recurso, o que aumenta o preço para adquiri-lo. Espera-se que o custo para adquirir recursos suficientes para realizar um ataque bem-sucedido esteja além dos recursos do invasor. Caso contrário, temos ataques bem-sucedidos de 51% contra blockchains, o que certamente aconteceu em redes menores de criptomoedas.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Como os Algoritmos Comuns Implementam o Consenso
+
+![Proof of Work vs. Proof of Stake](assets/img/img9.png)
+
+<details close>
+    <summary><code>IMAGEM | Proof of Work vs. Proof of Stake</code></summary>
+
+| Proof of Work | Proof of Stake |
+| :--- | :--- |
+| ***Proof of Work*** é um requisito para definir um cálculo computacional expensivo, também chamado de **mineiração** | ***Proof of Stake***, o criador de um novo bloco é escolhido de forma determinística, dependendo na sua riqueza, também definido como **participação** |
+| Uma recompensa é dada para o primeiro mineirador que resolver os problemas de cada bloco | O sistema ***PoS*** (Proof of Stake) não tem uma recompensa por bloco, então, os mineiradores ganham as taxas das transação |
+| Mineiradores da rede competem para serem os primeiros a achar uma solução para o problema matemático | Moedas de Proof of Stake podem ser milhares de vezes mais econômicas |
+
+</details>
 
 <details close>
     <summary><code>VÍDEO | Blockchain: Ethereum</code></summary>
