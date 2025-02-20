@@ -4,7 +4,7 @@ Repositório de Estudos do Nano Course de Blockchain da FIAP
 
 <h1 align=center>FIAP - Nano Course | Blockchain</h1>
 
->**FASE 5 - *A Fantástica Fábrica de Software***
+>***BLOCKCHAIN* - Aprenda como funciona os serviços financeiros de criptomoedas de forma prática e simples**
 
 ## Descrição
 
